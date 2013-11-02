@@ -1,4 +1,5 @@
-= PredictionioRails
+PredictionIORails
+=================
 
 Rails Engine that connects to PredictionIO for building
 smart applications.
