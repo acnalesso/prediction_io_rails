@@ -1,5 +1,6 @@
 PredictionIORails
 =================
+[![Build Status](https://travis-ci.org/acnalesso/prediction_io_rails.png?branch=master)](https://travis-ci.org/acnalesso/prediction_io_rails)
 
 Rails Engine that connects to PredictionIO for building
 smart applications.
